@@ -37,3 +37,32 @@
 # Starting
 To start the application simply navigate to the project directory where the <b>docker-compose.yml</b> file is located and run the following comand:
 <b><i>docker compose up</i></b>
+
+# Showcase
+<ul>
+  <li>
+  <p>Main page</p>
+  <img src="photos/Screenshot_1.png">
+    </li>
+   <li>
+  <p>Login page</p>
+  <img src="photos/Screenshot_2.png">
+    </li>
+   <li>
+  <p>Dashboard page</p>
+  <img src="photos/Screenshot_3.png">
+    </li>
+   <li>
+  <p>Unauthorized modal</p>
+  <img src="photos/Screenshot_6.png">
+    </li>
+   <li>
+  <p>Main page</p>
+  <img src="photos/Screenshot_1.png">
+    </li>
+   <li>
+  <p>Difference in the header between logged users and guests</p>
+  <img src="photos/Screenshot_4.png">
+     <img src="photos/Screenshot_5.png">
+    </li>
+</ul>
