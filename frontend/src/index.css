@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+:root{
+    background-image: url("./assets/zig-zag.svg");
+}
