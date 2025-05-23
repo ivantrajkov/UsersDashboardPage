@@ -57,10 +57,6 @@ To start the application simply navigate to the project directory where the <b>d
   <img src="photos/Screenshot_6.png">
     </li>
    <li>
-  <p>Main page</p>
-  <img src="photos/Screenshot_1.png">
-    </li>
-   <li>
   <p>Difference in the header between logged users and guests</p>
   <img src="photos/Screenshot_4.png">
      <img src="photos/Screenshot_5.png">
